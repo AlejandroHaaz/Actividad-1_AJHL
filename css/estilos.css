@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size:  13px
+}
+
+h1 {
+    font-weight: 900;
+    font-style:italic;
+    color: coral;
+    font-size:  30px
+}
+
+ol{
+    color: brown;
+    font-weight: 1000;
+    
+}
+
+
+h3:hover{
+    color:blueviolet
+}
